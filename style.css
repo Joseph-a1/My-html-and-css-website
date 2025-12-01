@@ -1,0 +1,32 @@
+body{
+    background-color: blanchedalmond;
+    text-decoration: solid;
+    text-align: center;
+    font-weight: 700;
+    
+}
+
+h1{
+    color-scheme: ;
+    font-size: 50px;
+    padding-bottom: 10%;
+    margin-bottom: 0cqh;
+}
+.big-title{
+    font-family: cursive;
+    font-size: 4rem;
+    color: brown;
+    
+}
+.small-title{
+    font-size: 5rem;
+    color: goldenrod;
+     
+}
+.margin-50{
+    margin: 20px;
+    display: inline;
+}
+.about{
+    color: red;
+}
