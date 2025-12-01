@@ -11,6 +11,5 @@ $("h1").on("mouseover",function(){
     $("h1").css("color", "purple")
 })
 $("button").css("color", "green")
-$("button").click(function() {
-    $("h3").slideToggle();
-})
+
+
