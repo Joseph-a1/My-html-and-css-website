@@ -3,6 +3,8 @@ body{
     text-decoration: solid;
     text-align: center;
     font-weight: 700;
+    display:flex;
+    
     
 }
 
@@ -30,3 +32,4 @@ h1{
 .about{
     color: red;
 }
+
