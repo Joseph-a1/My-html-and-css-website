@@ -2,8 +2,8 @@ body{
     background-color: blanchedalmond;
     text-decoration: solid;
     text-align: center;
-    font-weight: 700;
-    display:grid;
+    
+    
     
     
 }
@@ -32,5 +32,6 @@ h1{
 .about{
     color: red;
 }
+
 
 
