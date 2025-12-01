@@ -2,6 +2,7 @@ body{
     background-color: blanchedalmond;
     text-decoration: solid;
     text-align: center;
+        @media only screen and (max-device-width: 800px){};
 
     
     
@@ -32,6 +33,7 @@ h1{
 .about{
     color: red;
 }
+
 
 
 
