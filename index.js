@@ -5,12 +5,13 @@ $("h2").addClass("small-title")
 $("h3").css("color", "purple")
 $("img").addClass("img-url")
 $("button").click(function() {
-    $("h2").css("color", "greenyellow")
+    $("h2").css("color", "green")
 })
 $("h1").on("mouseover",function(){
     $("h1").css("color", "purple")
 })
 $("button").css("color", "green")
+
 
 
 
